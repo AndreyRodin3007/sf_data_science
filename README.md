@@ -3,6 +3,6 @@ From the [Skillfactory Data Science course](https://skillfactory.ru/courses/data
 
 ## Проекты
 
-* [Проект 0. Игра: Угадай число](https://github.com/AndreyRodin3007/sf_data_science/tree/master/project_0)
-* [Проект 1. ______](________)
-* [Проект 2. ______](________)
+*[Проект 0. Игра: Угадай число]
+*
+*
